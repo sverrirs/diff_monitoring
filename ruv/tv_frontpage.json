@@ -9,7 +9,6 @@
             "    at Object.<anonymous> (/usr/local/laddi/node_modules/apollo-server-core/dist/requestPipeline.js:66:52)",
             "    at Generator.next (<anonymous>)",
             "    at fulfilled (/usr/local/laddi/node_modules/apollo-server-core/dist/requestPipeline.js:5:58)",
-            "    at runMicrotasks (<anonymous>)",
             "    at processTicksAndRejections (internal/process/task_queues.js:95:5)"
           ]
         }
