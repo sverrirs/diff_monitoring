@@ -31,5 +31,5 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest RUV data: ${timestamp}" || exit 0
-        git tag -a ${timestamp} -m "Latest RUV Data at ${timestamp}"
+        git tag -a "${timestamp}" -m "Latest RUV Data at ${timestamp}"
         git push --follow-tags

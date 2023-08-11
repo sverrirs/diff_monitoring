@@ -32,5 +32,5 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest Vegagerd data: ${timestamp}" || exit 0
-        git tag -a ${timestamp} -m "Latest Vegagerd Data at ${timestamp}"
+        git tag -a "${timestamp}" -m "Latest Vegagerd Data at ${timestamp}"
         git push --follow-tags
