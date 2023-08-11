@@ -11,18 +11,18 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389518,
-      "title": "Nýtt flokkunarkerfi sorps kallar fram alls kyns tilfinningar",
-      "topic": "Umhverfismál",
-      "url": "www.ruv.is/frettir/innlent/2023-08-10-nytt-flokkunarkerfi-sorps-kallar-fram-alls-kyns-tilfinningar-389518"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
       "id": 389584,
       "title": "Skýrt að fólki beri að fara frá landinu",
       "topic": "Samfélagsmál",
       "url": "www.ruv.is/frettir/innlent/2023-08-11-skyrt-ad-folki-beri-ad-fara-fra-landinu-389584"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389518,
+      "title": "Nýtt flokkunarkerfi sorps kallar fram alls kyns tilfinningar",
+      "topic": "Umhverfismál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-10-nytt-flokkunarkerfi-sorps-kallar-fram-alls-kyns-tilfinningar-389518"
     },
     {
       "color": "#A5000A",
@@ -77,10 +77,10 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389582,
-      "title": "Halda að götuljósin séu stjörnur og villast inn í bæinn",
-      "topic": "Vestmannaeyjabær",
-      "url": "www.ruv.is/frettir/innlent/2023-08-11-halda-ad-gotuljosin-seu-stjornur-og-villast-inn-i-baeinn-389582"
+      "id": 389591,
+      "title": "Nýtt fyrirkomulag gæslunnar sannar sig fyrsta daginn",
+      "topic": "Leit og björgun",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-nytt-fyrirkomulag-gaeslunnar-sannar-sig-fyrsta-daginn-389591"
     },
     {
       "color": "#A5000A",
@@ -93,10 +93,10 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389591,
-      "title": "Nýtt fyrirkomulag gæslunnar sannar sig fyrsta daginn",
-      "topic": "Leit og björgun",
-      "url": "www.ruv.is/frettir/innlent/2023-08-11-nytt-fyrirkomulag-gaeslunnar-sannar-sig-fyrsta-daginn-389591"
+      "id": 389582,
+      "title": "Halda að götuljósin séu stjörnur og villast inn í bæinn",
+      "topic": "Vestmannaeyjabær",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-halda-ad-gotuljosin-seu-stjornur-og-villast-inn-i-baeinn-389582"
     }
   ]
 }
