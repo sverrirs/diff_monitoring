@@ -14,6 +14,9 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
+    - name: Create dir if does not exist
+      run: |-
+        mkdir -p ruv
     - name: Fetch latest RUV frontpage data
       run: |-
         curl "https://laddi.next.ruv.dev/?operationName=getFrontpage&variables=%7B%22type%22%3A%22tv%22%2C%22limit%22%3A1000%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22f640a5b54c853d6a071f7c3b27bf8c056854ab3200c1d35b0a624eb203dfc501%22%7D%7D" | jq . > ruv/frontpage.json
