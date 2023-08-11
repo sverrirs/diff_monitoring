@@ -35,18 +35,18 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389524,
-      "title": "Dularfullt mál skekur smábæ í Ástralíu",
-      "topic": "Ástralía",
-      "url": "www.ruv.is/frettir/erlent/2023-08-10-dularfullt-mal-skekur-smabae-i-astraliu-389524"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
       "id": 389536,
       "title": "Vill skoða komugjald á erlenda ferðamenn",
       "topic": "Ferðaþjónusta",
       "url": "www.ruv.is/frettir/innlent/2023-08-10-vill-skoda-komugjald-a-erlenda-ferdamenn-389536"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389524,
+      "title": "Dularfullt mál skekur smábæ í Ástralíu",
+      "topic": "Ástralía",
+      "url": "www.ruv.is/frettir/erlent/2023-08-10-dularfullt-mal-skekur-smabae-i-astraliu-389524"
     }
   ],
   "others_are_reading": [
@@ -83,20 +83,20 @@
       "url": "www.ruv.is/frettir/innlent/2023-08-11-halda-ad-gotuljosin-seu-stjornur-og-villast-inn-i-baeinn-389582"
     },
     {
-      "color": "#962864",
+      "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389566,
-      "title": "Erfitt en líka dásamlegt að vera trans í nútímasamfélagi",
-      "topic": "Mannlíf",
-      "url": "www.ruv.is/frettir/menning-og-daegurmal/2023-08-11-erfitt-en-lika-dasamlegt-ad-vera-trans-i-nutimasamfelagi-389566"
+      "id": 389595,
+      "title": "Íslandsbankahúsið rifið með haustinu",
+      "topic": "Samfélagsmál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-islandsbankahusid-rifid-med-haustinu-389595"
     },
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389509,
-      "title": "Ekki hægt að tæma tunnur ef vitlaust er flokkað í þær",
-      "topic": "Umhverfismál",
-      "url": "www.ruv.is/frettir/innlent/2023-08-10-ekki-haegt-ad-taema-tunnur-ef-vitlaust-er-flokkad-i-thaer-389509"
+      "id": 389591,
+      "title": "Nýtt fyrirkomulag gæslunnar sannar sig fyrsta daginn",
+      "topic": "Leit og björgun",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-nytt-fyrirkomulag-gaeslunnar-sannar-sig-fyrsta-daginn-389591"
     }
   ]
 }

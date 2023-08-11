@@ -159,26 +159,6 @@
           "programs": [
             {
               "__typename": "Program",
-              "description": "Finnlands-sænskir þættir þar sem krakkar segja frá áhugamálum sínum.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "9hkigj",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9hkigg-fdemng.jpg",
-                  "rating": 0,
-                  "title": "Þáttur 3 af 20"
-                }
-              ],
-              "foreign_title": "Min Hobby",
-              "id": 32049,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9hkigg-fdemng.jpg",
-              "portrait_image": "",
-              "short_description": "Finnlands-sænskir þættir þar sem krakkar segja frá áhugamálum sínum.",
-              "slug": "ahugamalid-mitt",
-              "title": "Áhugamálið mitt"
-            },
-            {
-              "__typename": "Program",
               "description": "Brot úr tónlistarþáttunum Tónatal í umsjón Matthíasar Más Magnússonar. Þættirnir voru teknir upp árið 2021.",
               "episodes": [
                 {
@@ -636,6 +616,26 @@
               "short_description": "Fræðandi þættir frá BBC um heilsufar, lífsstíl og heilsufarstengdar mýtur.",
               "slug": "treystid-laekninum",
               "title": "Treystið lækninum"
+            },
+            {
+              "__typename": "Program",
+              "description": "Matgæðingarnir og bræðurnir Adam og James Price ferðast um Bretland og töfra fram kræsingar sem eru vinsælar þar í landi.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "99v6uj",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/99v6ug-irrv60.jpg",
+                  "rating": 0,
+                  "title": "Þáttur 3 af 5"
+                }
+              ],
+              "foreign_title": "Spise med Price",
+              "id": 31245,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/99v6ug-irrv60.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/99v6ug-67cvd0.jpg",
+              "short_description": "Matgæðingarnir og bræðurnir Adam og James Price ferðast um Bretland og töfra fram kræsingar sem eru vinsælar þar í landi.",
+              "slug": "pricebraedur-a-bretlandseyjum",
+              "title": "Pricebræður á Bretlandseyjum"
             }
           ],
           "slug": "nyjast",
@@ -11692,10 +11692,10 @@
               "episodes": [
                 {
                   "__typename": "Episode",
-                  "id": "77jfv6",
+                  "id": "77jfv7",
                   "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/77jfv0-9clfm8.jpg",
                   "rating": 0,
-                  "title": "Ný öld, ný kynslóð"
+                  "title": "Heima og heiman"
                 }
               ],
               "foreign_title": "Saga íslenskra kvikmynda",
@@ -15420,10 +15420,10 @@
               "episodes": [
                 {
                   "__typename": "Episode",
-                  "id": "77jfv6",
+                  "id": "77jfv7",
                   "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/77jfv0-9clfm8.jpg",
                   "rating": 0,
-                  "title": "Ný öld, ný kynslóð"
+                  "title": "Heima og heiman"
                 }
               ],
               "foreign_title": "Saga íslenskra kvikmynda",
@@ -16349,26 +16349,6 @@
               "episodes": [
                 {
                   "__typename": "Episode",
-                  "id": "adjurj",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurj-p0i1b0.jpg",
-                  "rating": 0,
-                  "title": "Þáttur 3 af 3"
-                }
-              ],
-              "foreign_title": null,
-              "id": 34983,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurg-bu96sg.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/adjurg-fdjtn8.jpg",
-              "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
-              "slug": "hringfarinn-hjolad-um-heimaslodir-med-enskum-texta",
-              "title": "Hringfarinn - Hjólað um heimaslóðir með enskum texta"
-            },
-            {
-              "__typename": "Program",
-              "description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.  Fylgst er með hjónunum upplifa land og þjóð á nýjan hátt þegar þau hjóla 7000 kílómetra á 40 dögum.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
                   "id": "ad28ej",
                   "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/ad28ej-hc7ooo.jpg",
                   "rating": 0,
@@ -16382,6 +16362,26 @@
               "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
               "slug": "hringfarinn-hjolad-um-heimaslodir",
               "title": "Hringfarinn - Hjólað um heimaslóðir"
+            },
+            {
+              "__typename": "Program",
+              "description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.  Fylgst er með hjónunum upplifa land og þjóð á nýjan hátt þegar þau hjóla 7000 kílómetra á 40 dögum.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "adjurj",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurj-p0i1b0.jpg",
+                  "rating": 0,
+                  "title": "Þáttur 3 af 3"
+                }
+              ],
+              "foreign_title": null,
+              "id": 34983,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurg-bu96sg.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/adjurg-fdjtn8.jpg",
+              "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
+              "slug": "hringfarinn-hjolad-um-heimaslodir-med-enskum-texta",
+              "title": "Hringfarinn - Hjólað um heimaslóðir með enskum texta"
             },
             {
               "__typename": "Program",
