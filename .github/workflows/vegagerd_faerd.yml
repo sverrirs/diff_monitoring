@@ -27,8 +27,8 @@ jobs:
         curl "https://gagnaveita.vegagerdin.is/api/faerdpunktar2017_1" | jq -S . > vegagerd/issues.json
     - name: Commit and push if it changed
       run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest Vegagerd data: ${timestamp}" || exit 0

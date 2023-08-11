@@ -1,0 +1,6 @@
+{
+  "name": "RUV Scraping",
+  "description": "Scrapes RUV data for comparisons",
+  "iconName": "octicon video",
+  "categories": ["scraping"]
+}

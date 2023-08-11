@@ -1,0 +1,6 @@
+{
+  "name": "Vegagerdin Færð á vegum scraping",
+  "description": "Scrapes the Vegagerdin api endpoints for changes",
+  "iconName": "octicon clock",
+  "categories": ["scraping"]
+}
