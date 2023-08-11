@@ -159,6 +159,26 @@
           "programs": [
             {
               "__typename": "Program",
+              "description": "Finnlands-sænskir þættir þar sem krakkar segja frá áhugamálum sínum.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "9hkigj",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9hkigg-fdemng.jpg",
+                  "rating": 0,
+                  "title": "Þáttur 3 af 20"
+                }
+              ],
+              "foreign_title": "Min Hobby",
+              "id": 32049,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9hkigg-fdemng.jpg",
+              "portrait_image": "",
+              "short_description": "Finnlands-sænskir þættir þar sem krakkar segja frá áhugamálum sínum.",
+              "slug": "ahugamalid-mitt",
+              "title": "Áhugamálið mitt"
+            },
+            {
+              "__typename": "Program",
               "description": "Brot úr tónlistarþáttunum Tónatal í umsjón Matthíasar Más Magnússonar. Þættirnir voru teknir upp árið 2021.",
               "episodes": [
                 {
@@ -616,26 +636,6 @@
               "short_description": "Fræðandi þættir frá BBC um heilsufar, lífsstíl og heilsufarstengdar mýtur.",
               "slug": "treystid-laekninum",
               "title": "Treystið lækninum"
-            },
-            {
-              "__typename": "Program",
-              "description": "Matgæðingarnir og bræðurnir Adam og James Price ferðast um Bretland og töfra fram kræsingar sem eru vinsælar þar í landi.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "99v6uj",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/99v6ug-irrv60.jpg",
-                  "rating": 0,
-                  "title": "Þáttur 3 af 5"
-                }
-              ],
-              "foreign_title": "Spise med Price",
-              "id": 31245,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/99v6ug-irrv60.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/99v6ug-67cvd0.jpg",
-              "short_description": "Matgæðingarnir og bræðurnir Adam og James Price ferðast um Bretland og töfra fram kræsingar sem eru vinsælar þar í landi.",
-              "slug": "pricebraedur-a-bretlandseyjum",
-              "title": "Pricebræður á Bretlandseyjum"
             }
           ],
           "slug": "nyjast",
@@ -2166,26 +2166,6 @@
             },
             {
               "__typename": "Program",
-              "description": "Fréttatími sjónvarps með táknmálstúlkun.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a0i5tu",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
-                  "rating": 0,
-                  "title": "10.08.2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 31575,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9d3tjg-1gbr80.jpg",
-              "short_description": "Fréttatími sjónvarps með táknmálstúlkun.",
-              "slug": "frettir-med-taknmalstulkun",
-              "title": "Fréttir með táknmálstúlkun"
-            },
-            {
-              "__typename": "Program",
               "description": "Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.",
               "episodes": [
                 {
@@ -2203,6 +2183,26 @@
               "short_description": "Helstu fréttir dagsins af innlendum og erlendum vettvangi.",
               "slug": "frettir-kl-19-00",
               "title": "Fréttir kl. 19:00"
+            },
+            {
+              "__typename": "Program",
+              "description": "Fréttatími sjónvarps með táknmálstúlkun.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "a0i5tu",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
+                  "rating": 0,
+                  "title": "10.08.2023"
+                }
+              ],
+              "foreign_title": null,
+              "id": 31575,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9d3tjg-1gbr80.jpg",
+              "short_description": "Fréttatími sjónvarps með táknmálstúlkun.",
+              "slug": "frettir-med-taknmalstulkun",
+              "title": "Fréttir með táknmálstúlkun"
             },
             {
               "__typename": "Program",
@@ -2306,26 +2306,6 @@
             },
             {
               "__typename": "Program",
-              "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a5m1tt",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9irkgg-lthrg8.jpg",
-                  "rating": 0,
-                  "title": "31.05.2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 32177,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9irkgg-lthrg8.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9irkgg-hvv2tg.jpg",
-              "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
-              "slug": "krakkafrettir-med-taknmalstulkun",
-              "title": "Krakkafréttir með táknmálstúlkun"
-            },
-            {
-              "__typename": "Program",
               "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.\n\nUmsjón: Kolbrún María Másdóttir og Gunnar Hrafn Kristjánsson.",
               "episodes": [
                 {
@@ -2343,6 +2323,26 @@
               "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
               "slug": "krakkafrettir",
               "title": "Krakkafréttir"
+            },
+            {
+              "__typename": "Program",
+              "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "a5m1tt",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9irkgg-lthrg8.jpg",
+                  "rating": 0,
+                  "title": "31.05.2023"
+                }
+              ],
+              "foreign_title": null,
+              "id": 32177,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9irkgg-lthrg8.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9irkgg-hvv2tg.jpg",
+              "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
+              "slug": "krakkafrettir-med-taknmalstulkun",
+              "title": "Krakkafréttir með táknmálstúlkun"
             },
             {
               "__typename": "Program",
