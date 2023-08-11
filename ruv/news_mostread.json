@@ -35,18 +35,18 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389536,
-      "title": "Vill skoða komugjald á erlenda ferðamenn",
-      "topic": "Ferðaþjónusta",
-      "url": "www.ruv.is/frettir/innlent/2023-08-10-vill-skoda-komugjald-a-erlenda-ferdamenn-389536"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
       "id": 389509,
       "title": "Ekki hægt að tæma tunnur ef vitlaust er flokkað í þær",
       "topic": "Umhverfismál",
       "url": "www.ruv.is/frettir/innlent/2023-08-10-ekki-haegt-ad-taema-tunnur-ef-vitlaust-er-flokkad-i-thaer-389509"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389536,
+      "title": "Vill skoða komugjald á erlenda ferðamenn",
+      "topic": "Ferðaþjónusta",
+      "url": "www.ruv.is/frettir/innlent/2023-08-10-vill-skoda-komugjald-a-erlenda-ferdamenn-389536"
     }
   ],
   "others_are_reading": [

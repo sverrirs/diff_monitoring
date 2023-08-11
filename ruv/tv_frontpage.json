@@ -159,6 +159,26 @@
           "programs": [
             {
               "__typename": "Program",
+              "description": "Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "91pvin",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/91pvig-3p3hig.jpg",
+                  "rating": 0,
+                  "title": "Þáttur 7 af 20"
+                }
+              ],
+              "foreign_title": null,
+              "id": 30389,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/91pvig-3p3hig.jpg",
+              "portrait_image": "",
+              "short_description": "Góð ráð og æfingar sem tilvalið er að gera heima.",
+              "slug": "heimaleikfimi",
+              "title": "Heimaleikfimi"
+            },
+            {
+              "__typename": "Program",
               "description": "Fréttatími sjónvarps með táknmálstúlkun.",
               "episodes": [
                 {
@@ -616,26 +636,6 @@
               "short_description": "Íþróttafréttir.",
               "slug": "ithrottir",
               "title": "Íþróttir"
-            },
-            {
-              "__typename": "Program",
-              "description": "Fréttatími sjónvarps með táknmálstúlkun.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a0i5tu",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
-                  "rating": 0,
-                  "title": "10.08.2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 31575,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9d3tjg-1gbr80.jpg",
-              "short_description": "Fréttatími sjónvarps með táknmálstúlkun.",
-              "slug": "frettir-med-taknmalstulkun",
-              "title": "Fréttir með táknmálstúlkun"
             }
           ],
           "slug": "nyjast",
@@ -2166,26 +2166,6 @@
             },
             {
               "__typename": "Program",
-              "description": "Fréttatími sjónvarps með táknmálstúlkun.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a0i5tu",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
-                  "rating": 0,
-                  "title": "10.08.2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 31575,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9d3tjg-1gbr80.jpg",
-              "short_description": "Fréttatími sjónvarps með táknmálstúlkun.",
-              "slug": "frettir-med-taknmalstulkun",
-              "title": "Fréttir með táknmálstúlkun"
-            },
-            {
-              "__typename": "Program",
               "description": "Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.",
               "episodes": [
                 {
@@ -2203,6 +2183,26 @@
               "short_description": "Helstu fréttir dagsins af innlendum og erlendum vettvangi.",
               "slug": "frettir-kl-19-00",
               "title": "Fréttir kl. 19:00"
+            },
+            {
+              "__typename": "Program",
+              "description": "Fréttatími sjónvarps með táknmálstúlkun.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "a0i5tu",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
+                  "rating": 0,
+                  "title": "10.08.2023"
+                }
+              ],
+              "foreign_title": null,
+              "id": 31575,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9d3tjg-9la758.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9d3tjg-1gbr80.jpg",
+              "short_description": "Fréttatími sjónvarps með táknmálstúlkun.",
+              "slug": "frettir-med-taknmalstulkun",
+              "title": "Fréttir með táknmálstúlkun"
             },
             {
               "__typename": "Program",
@@ -16349,26 +16349,6 @@
               "episodes": [
                 {
                   "__typename": "Episode",
-                  "id": "ad28ej",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/ad28ej-hc7ooo.jpg",
-                  "rating": 0,
-                  "title": "Þáttur 3 af 3"
-                }
-              ],
-              "foreign_title": null,
-              "id": 34925,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/ad28eg-asqm1o.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/ad28eg-jc4p6g.jpg",
-              "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
-              "slug": "hringfarinn-hjolad-um-heimaslodir",
-              "title": "Hringfarinn - Hjólað um heimaslóðir"
-            },
-            {
-              "__typename": "Program",
-              "description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.  Fylgst er með hjónunum upplifa land og þjóð á nýjan hátt þegar þau hjóla 7000 kílómetra á 40 dögum.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
                   "id": "adjurj",
                   "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurj-p0i1b0.jpg",
                   "rating": 0,
@@ -16382,6 +16362,26 @@
               "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
               "slug": "hringfarinn-hjolad-um-heimaslodir-med-enskum-texta",
               "title": "Hringfarinn - Hjólað um heimaslóðir með enskum texta"
+            },
+            {
+              "__typename": "Program",
+              "description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.  Fylgst er með hjónunum upplifa land og þjóð á nýjan hátt þegar þau hjóla 7000 kílómetra á 40 dögum.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "ad28ej",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/ad28ej-hc7ooo.jpg",
+                  "rating": 0,
+                  "title": "Þáttur 3 af 3"
+                }
+              ],
+              "foreign_title": null,
+              "id": 34925,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/ad28eg-asqm1o.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/ad28eg-jc4p6g.jpg",
+              "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
+              "slug": "hringfarinn-hjolad-um-heimaslodir",
+              "title": "Hringfarinn - Hjólað um heimaslóðir"
             },
             {
               "__typename": "Program",
