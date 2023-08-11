@@ -2,14 +2,6 @@
   "most_read": [
     {
       "color": "#A5000A",
-      "content_type": "Klippufærsla",
-      "id": 389515,
-      "title": "„Þetta er eitthvað sem maður hefur aldrei séð áður“",
-      "topic": "Noregur",
-      "url": "www.ruv.is/frettir/innlent/2023-08-10-thetta-er-eitthvad-sem-madur-hefur-aldrei-sed-adur-389515"
-    },
-    {
-      "color": "#A5000A",
       "content_type": "Færsla",
       "id": 389509,
       "title": "Ekki hægt að tæma tunnur ef vitlaust er flokkað í þær",
@@ -23,6 +15,14 @@
       "title": "Nýtt flokkunarkerfi sorps kallar fram alls kyns tilfinningar",
       "topic": "Umhverfismál",
       "url": "www.ruv.is/frettir/innlent/2023-08-10-nytt-flokkunarkerfi-sorps-kallar-fram-alls-kyns-tilfinningar-389518"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Klippufærsla",
+      "id": 389515,
+      "title": "„Þetta er eitthvað sem maður hefur aldrei séð áður“",
+      "topic": "Noregur",
+      "url": "www.ruv.is/frettir/innlent/2023-08-10-thetta-er-eitthvad-sem-madur-hefur-aldrei-sed-adur-389515"
     },
     {
       "color": "#A5000A",
