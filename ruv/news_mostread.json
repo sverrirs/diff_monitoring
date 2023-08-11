@@ -53,14 +53,6 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389509,
-      "title": "Ekki hægt að tæma tunnur ef vitlaust er flokkað í þær",
-      "topic": "Umhverfismál",
-      "url": "www.ruv.is/frettir/innlent/2023-08-10-ekki-haegt-ad-taema-tunnur-ef-vitlaust-er-flokkad-i-thaer-389509"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
       "id": 389575,
       "title": "Segja stjórnvöld þvinga sig út í vændi",
       "topic": "Samfélagsmál",
@@ -69,10 +61,10 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389558,
-      "title": "Furða sig á því að viðvörunarsírenur hafi ekki farið í gang",
-      "topic": "Bandaríkin",
-      "url": "www.ruv.is/frettir/erlent/2023-08-11-furda-sig-a-thvi-ad-vidvorunarsirenur-hafi-ekki-farid-i-gang-389558"
+      "id": 389509,
+      "title": "Ekki hægt að tæma tunnur ef vitlaust er flokkað í þær",
+      "topic": "Umhverfismál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-10-ekki-haegt-ad-taema-tunnur-ef-vitlaust-er-flokkad-i-thaer-389509"
     },
     {
       "color": "#A5000A",
@@ -83,12 +75,20 @@
       "url": "www.ruv.is/frettir/innlent/2023-08-11-alvarlegt-slys-vid-langjokul-389581"
     },
     {
+      "color": "#962864",
+      "content_type": "Færsla",
+      "id": 389566,
+      "title": "Erfitt en líka dásamlegt að vera trans í nútímasamfélagi",
+      "topic": "Mannlíf",
+      "url": "www.ruv.is/frettir/menning-og-daegurmal/2023-08-11-erfitt-en-lika-dasamlegt-ad-vera-trans-i-nutimasamfelagi-389566"
+    },
+    {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389562,
-      "title": "Segir hvalrekaskatt ekki eiga við á Íslandi",
-      "topic": "Viðskipti",
-      "url": "www.ruv.is/frettir/innlent/2023-08-11-segir-hvalrekaskatt-ekki-eiga-vid-a-islandi-389562"
+      "id": 389558,
+      "title": "Furða sig á því að viðvörunarsírenur hafi ekki farið í gang",
+      "topic": "Bandaríkin",
+      "url": "www.ruv.is/frettir/erlent/2023-08-11-furda-sig-a-thvi-ad-vidvorunarsirenur-hafi-ekki-farid-i-gang-389558"
     },
     {
       "color": "#A5000A",
