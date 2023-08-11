@@ -61,10 +61,26 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
+      "id": 389575,
+      "title": "Segja stjórnvöld þvinga sig út í vændi",
+      "topic": "Samfélagsmál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-segja-stjornvold-thvinga-sig-ut-i-vaendi-389575"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
       "id": 389558,
       "title": "Furða sig á því að viðvörunarsírenur hafi ekki farið í gang",
       "topic": "Bandaríkin",
       "url": "www.ruv.is/frettir/erlent/2023-08-11-furda-sig-a-thvi-ad-vidvorunarsirenur-hafi-ekki-farid-i-gang-389558"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389581,
+      "title": "Alvarlegt slys við Langjökul",
+      "topic": "Leit og björgun",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-alvarlegt-slys-vid-langjokul-389581"
     },
     {
       "color": "#A5000A",
@@ -77,26 +93,10 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389575,
-      "title": "Segja stjórnvöld þvinga sig út í vændi",
-      "topic": "Samfélagsmál",
-      "url": "www.ruv.is/frettir/innlent/2023-08-11-segja-stjornvold-thvinga-sig-ut-i-vaendi-389575"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
       "id": 389568,
       "title": "Þéttsetið tjaldsvæði og bætt við hleðslustöðvum",
       "topic": "Dalvíkurbyggð",
       "url": "www.ruv.is/frettir/innlent/2023-08-11-thettsetid-tjaldsvaedi-og-baett-vid-hledslustodvum-389568"
-    },
-    {
-      "color": "#962864",
-      "content_type": "Færsla",
-      "id": 389566,
-      "title": "Erfitt en líka dásamlegt að vera trans í nútímasamfélagi",
-      "topic": "Mannlíf",
-      "url": "www.ruv.is/frettir/menning-og-daegurmal/2023-08-11-erfitt-en-lika-dasamlegt-ad-vera-trans-i-nutimasamfelagi-389566"
     }
   ]
 }
