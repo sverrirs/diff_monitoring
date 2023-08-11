@@ -85,18 +85,18 @@
     {
       "color": "#962864",
       "content_type": "Færsla",
-      "id": 389451,
-      "title": "Við hestaheilsu með hjartað á erminni",
-      "topic": "Tónlist",
-      "url": "www.ruv.is/frettir/menning-og-daegurmal/2023-08-11-vid-hestaheilsu-med-hjartad-a-erminni-389451"
-    },
-    {
-      "color": "#962864",
-      "content_type": "Færsla",
       "id": 389566,
       "title": "Erfitt en líka dásamlegt að vera trans í nútímasamfélagi",
       "topic": "Mannlíf",
       "url": "www.ruv.is/frettir/menning-og-daegurmal/2023-08-11-erfitt-en-lika-dasamlegt-ad-vera-trans-i-nutimasamfelagi-389566"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389564,
+      "title": "Hundrað manns enn algjörlega einangruð eftir óveðrið",
+      "topic": "Noregur",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-hundrad-manns-enn-algjorlega-einangrud-eftir-ovedrid-389564"
     }
   ]
 }
