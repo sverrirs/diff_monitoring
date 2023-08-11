@@ -1,0 +1,36 @@
+# See: https://simonwillison.net/2020/Oct/9/git-scraping/
+# Permissions for bot: https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot
+# API docs https://www.vegagerdin.is/vefur2.nsf/Files/gagnaveita_faerd_2017/$file/gagnaveita_faerd_2017.pdf
+
+name: Scrape latest Vegagerdar info
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '6,26,46 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Create dir if does not exist
+      run: |-
+        mkdir -p vegagerd
+    - name: Fetch latest faerd a vegum
+      run: |-
+        curl "https://gagnaveita.vegagerdin.is/api/faerd2017_1" | jq -S . > vegagerd/faerd.json
+    - name: Fetch latest issues
+      run: |-
+        curl "https://gagnaveita.vegagerdin.is/api/faerdpunktar2017_1" | jq -S . > vegagerd/issues.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest Vegagerd data: ${timestamp}" || exit 0
+        git tag -a ${timestamp} -m "Latest Vegagerd Data at ${timestamp}"
+        git push --follow-tags
