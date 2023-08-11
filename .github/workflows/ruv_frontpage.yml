@@ -32,6 +32,6 @@ jobs:
         timestamp=$(date -u)
         version=$(date -u +"%Y-%m-%dT%H_%M_%S")
         git commit -m "Latest RUV data: ${timestamp}" || exit 0
-        git tag -a "${version}" -m "Latest RUV Data at ${timestamp}"
+        git tag -a "RUV/${version}" -m "Latest RUV Data at ${timestamp}"
         git pull
         git push --follow-tags

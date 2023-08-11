@@ -33,6 +33,6 @@ jobs:
         timestamp=$(date -u)
         version=$(date -u +"%Y-%m-%dT%H_%M_%S")
         git commit -m "Latest Vegagerd data: ${timestamp}" || exit 0
-        git tag -a "${version}" -m "Latest Vegagerd Data at ${timestamp}"
+        git tag -a "VG/${version}" -m "Latest Vegagerd Data at ${timestamp}"
         git pull
         git push --follow-tags
