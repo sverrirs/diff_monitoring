@@ -2306,26 +2306,6 @@
             },
             {
               "__typename": "Program",
-              "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.\n\nUmsjón: Kolbrún María Másdóttir og Gunnar Hrafn Kristjánsson.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a5lo5d",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/a5lo5d-hth1r8.jpg",
-                  "rating": 0,
-                  "title": "31. maí 2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 30712,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/94shs0-m09i4o.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/94shs0-rdfc18.jpg",
-              "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
-              "slug": "krakkafrettir",
-              "title": "Krakkafréttir"
-            },
-            {
-              "__typename": "Program",
               "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
               "episodes": [
                 {
@@ -2343,6 +2323,26 @@
               "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
               "slug": "krakkafrettir-med-taknmalstulkun",
               "title": "Krakkafréttir með táknmálstúlkun"
+            },
+            {
+              "__typename": "Program",
+              "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.\n\nUmsjón: Kolbrún María Másdóttir og Gunnar Hrafn Kristjánsson.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "a5lo5d",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/a5lo5d-hth1r8.jpg",
+                  "rating": 0,
+                  "title": "31. maí 2023"
+                }
+              ],
+              "foreign_title": null,
+              "id": 30712,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/94shs0-m09i4o.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/94shs0-rdfc18.jpg",
+              "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
+              "slug": "krakkafrettir",
+              "title": "Krakkafréttir"
             },
             {
               "__typename": "Program",
