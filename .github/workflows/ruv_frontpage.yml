@@ -1,4 +1,5 @@
 # See: https://simonwillison.net/2020/Oct/9/git-scraping/
+# Permissions for bot: https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot
 
 name: Scrape latest RUV frontpage
 
@@ -17,9 +18,12 @@ jobs:
     - name: Create dir if does not exist
       run: |-
         mkdir -p ruv
-    - name: Fetch latest RUV frontpage data
+    - name: Fetch latest RUV TV frontpage data
       run: |-
-        curl "https://laddi.next.ruv.dev/?operationName=getFrontpage&variables=%7B%22type%22%3A%22tv%22%2C%22limit%22%3A1000%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22f640a5b54c853d6a071f7c3b27bf8c056854ab3200c1d35b0a624eb203dfc501%22%7D%7D" | jq . > ruv/frontpage.json
+        curl "https://laddi.next.ruv.dev/?operationName=getFrontpage&variables=%7B%22type%22%3A%22tv%22%2C%22limit%22%3A1000%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22f640a5b54c853d6a071f7c3b27bf8c056854ab3200c1d35b0a624eb203dfc501%22%7D%7D" | jq -S . > ruv/tv_frontpage.json
+    - name: Fetch latest RUV News most read data
+      run: |-
+        curl "https://erla.nyr.ruv.is/restapi/kilkaya-stats/" | jq -S . > ruv/news_mostread.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
