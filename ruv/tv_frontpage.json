@@ -159,6 +159,46 @@
           "programs": [
             {
               "__typename": "Program",
+              "description": "Brot úr tónlistarþáttunum Tónatal í umsjón Matthíasar Más Magnússonar. Þættirnir voru teknir upp árið 2021.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "9m6efv",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9m6efg-8p0im8.jpg",
+                  "rating": 0,
+                  "title": "GDRN - Upp"
+                }
+              ],
+              "foreign_title": null,
+              "id": 32527,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9m6efg-8p0im8.jpg",
+              "portrait_image": "",
+              "short_description": "Brot úr tónlistarþáttunum Tónatal í umsjón Matthíasar Más Magnússonar.",
+              "slug": "tonatal-brot",
+              "title": "Tónatal - brot"
+            },
+            {
+              "__typename": "Program",
+              "description": "Spurningakeppni framhaldsskólanna frá 2000. Spyrill: Logi Bergmann Eiðsson. Dómari og spurningahöfundur: Ólína Þorvarðardóttir. Stigavörður: Þóra Arnórsdóttir. Dagskrárgerð: Andrés Indriðason.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "8sl64m",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/8sl64g-jld8g8.jpg",
+                  "rating": 0,
+                  "title": "MH - MS"
+                }
+              ],
+              "foreign_title": null,
+              "id": 29849,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/8sl64g-jld8g8.jpg",
+              "portrait_image": "",
+              "short_description": "Spurningakeppni framhaldsskólanna frá 2000.",
+              "slug": "gettu-betur-2000",
+              "title": "Gettu betur 2000"
+            },
+            {
+              "__typename": "Program",
               "description": "Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.",
               "episodes": [
                 {
@@ -596,46 +636,6 @@
               "short_description": "Stutt umfjöllun Sumarlandans sem verður á flakki í sumar og hittir landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring.",
               "slug": "sumarlandabrot",
               "title": "Sumarlandabrot"
-            },
-            {
-              "__typename": "Program",
-              "description": "Veðurfréttir.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a0ka9e",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/95d170-l1ef7g.jpg",
-                  "rating": 0,
-                  "title": "10.08.2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 30766,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/95d170-l1ef7g.jpg",
-              "portrait_image": "",
-              "short_description": "Veðurfréttir.",
-              "slug": "vedur-kl-19-30",
-              "title": "Veður kl. 19:30"
-            },
-            {
-              "__typename": "Program",
-              "description": "Íþróttafréttir.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a0raqs",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/94boog-p3k5v0.jpg",
-                  "rating": 0,
-                  "title": "10.08.2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 30657,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/94boog-p3k5v0.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/94boog-a6bja0.jpg",
-              "short_description": "Íþróttafréttir.",
-              "slug": "ithrottir",
-              "title": "Íþróttir"
             }
           ],
           "slug": "nyjast",
