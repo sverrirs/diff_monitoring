@@ -19,22 +19,6 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389504,
-      "title": "Kona flutt á gjörgæslu eftir að hafa dottið á rafhlaupahjóli",
-      "topic": "Samgöngur",
-      "url": "www.ruv.is/frettir/innlent/2023-08-10-kona-flutt-a-gjorgaeslu-eftir-ad-hafa-dottid-a-rafhlaupahjoli-389504"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Klippufærsla",
-      "id": 389515,
-      "title": "„Þetta er eitthvað sem maður hefur aldrei séð áður“",
-      "topic": "Noregur",
-      "url": "www.ruv.is/frettir/innlent/2023-08-10-thetta-er-eitthvad-sem-madur-hefur-aldrei-sed-adur-389515"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
       "id": 389575,
       "title": "Segja stjórnvöld þvinga sig út í vændi",
       "topic": "Samfélagsmál",
@@ -43,10 +27,26 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
+      "id": 389584,
+      "title": "Skýrt að fólki beri að fara frá landinu",
+      "topic": "Samfélagsmál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-skyrt-ad-folki-beri-ad-fara-fra-landinu-389584"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
       "id": 389524,
       "title": "Dularfullt mál skekur smábæ í Ástralíu",
       "topic": "Ástralía",
       "url": "www.ruv.is/frettir/erlent/2023-08-10-dularfullt-mal-skekur-smabae-i-astraliu-389524"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389504,
+      "title": "Kona flutt á gjörgæslu eftir að hafa dottið á rafhlaupahjóli",
+      "topic": "Samgöngur",
+      "url": "www.ruv.is/frettir/innlent/2023-08-10-kona-flutt-a-gjorgaeslu-eftir-ad-hafa-dottid-a-rafhlaupahjoli-389504"
     }
   ],
   "others_are_reading": [
@@ -83,20 +83,20 @@
       "url": "www.ruv.is/frettir/innlent/2023-08-10-ekki-haegt-ad-taema-tunnur-ef-vitlaust-er-flokkad-i-thaer-389509"
     },
     {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389582,
+      "title": "Halda að götuljósin séu stjörnur og villast inn í bæinn",
+      "topic": "Vestmannaeyjabær",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-halda-ad-gotuljosin-seu-stjornur-og-villast-inn-i-baeinn-389582"
+    },
+    {
       "color": "#962864",
       "content_type": "Færsla",
       "id": 389566,
       "title": "Erfitt en líka dásamlegt að vera trans í nútímasamfélagi",
       "topic": "Mannlíf",
       "url": "www.ruv.is/frettir/menning-og-daegurmal/2023-08-11-erfitt-en-lika-dasamlegt-ad-vera-trans-i-nutimasamfelagi-389566"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
-      "id": 389475,
-      "title": "Íbúar hafa fengið sig fullsadda af skerðingu þjónustu í þorpunum við ströndina í Árborg",
-      "topic": "Suðurland",
-      "url": "www.ruv.is/frettir/innlent/2023-08-11-ibuar-hafa-fengid-sig-fullsadda-af-skerdingu-thjonustu-i-thorpunum-vid-strondina-i-arborg-389475"
     }
   ]
 }
