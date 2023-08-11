@@ -43,29 +43,13 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389518,
-      "title": "Nýtt flokkunarkerfi sorps kallar fram alls kyns tilfinningar",
-      "topic": "Umhverfismál",
-      "url": "www.ruv.is/frettir/innlent/2023-08-10-nytt-flokkunarkerfi-sorps-kallar-fram-alls-kyns-tilfinningar-389518"
+      "id": 389530,
+      "title": "Bjarni áfram í fjármálaráðuneytinu",
+      "topic": "Stjórnmál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-10-bjarni-afram-i-fjarmalaraduneytinu-389530"
     }
   ],
   "others_are_reading": [
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
-      "id": 389584,
-      "title": "Skýrt að fólki beri að fara frá landinu",
-      "topic": "Samfélagsmál",
-      "url": "www.ruv.is/frettir/innlent/2023-08-11-skyrt-ad-folki-beri-ad-fara-fra-landinu-389584"
-    },
-    {
-      "color": "#A5000A",
-      "content_type": "Færsla",
-      "id": 389575,
-      "title": "Segja stjórnvöld þvinga sig út í vændi",
-      "topic": "Samfélagsmál",
-      "url": "www.ruv.is/frettir/innlent/2023-08-11-segja-stjornvold-thvinga-sig-ut-i-vaendi-389575"
-    },
     {
       "color": "#A5000A",
       "content_type": "Færsla",
@@ -73,6 +57,14 @@
       "title": "Nýtt fyrirkomulag gæslunnar sannar sig fyrsta daginn",
       "topic": "Leit og björgun",
       "url": "www.ruv.is/frettir/innlent/2023-08-11-nytt-fyrirkomulag-gaeslunnar-sannar-sig-fyrsta-daginn-389591"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389584,
+      "title": "Skýrt að fólki beri að fara frá landinu",
+      "topic": "Samfélagsmál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-skyrt-ad-folki-beri-ad-fara-fra-landinu-389584"
     },
     {
       "color": "#A5000A",
@@ -85,10 +77,10 @@
     {
       "color": "#A5000A",
       "content_type": "Færsla",
-      "id": 389581,
-      "title": "Alvarlegt slys við Langjökul",
-      "topic": "Leit og björgun",
-      "url": "www.ruv.is/frettir/innlent/2023-08-11-alvarlegt-slys-vid-langjokul-389581"
+      "id": 389575,
+      "title": "Segja stjórnvöld þvinga sig út í vændi",
+      "topic": "Samfélagsmál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-segja-stjornvold-thvinga-sig-ut-i-vaendi-389575"
     },
     {
       "color": "#A5000A",
@@ -97,6 +89,14 @@
       "title": "Lækkun verðbólgu og vaxta stóru málin í vetur",
       "topic": "Stjórnmál",
       "url": "www.ruv.is/frettir/innlent/2023-08-11-laekkun-verdbolgu-og-vaxta-storu-malin-i-vetur-389602"
+    },
+    {
+      "color": "#A5000A",
+      "content_type": "Færsla",
+      "id": 389576,
+      "title": "Fleiri konur saka Rauða krossinn um launamisrétti",
+      "topic": "Samfélagsmál",
+      "url": "www.ruv.is/frettir/innlent/2023-08-11-fleiri-konur-saka-rauda-krossinn-um-launamisretti-389576"
     }
   ]
 }
