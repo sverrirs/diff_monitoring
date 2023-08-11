@@ -21,10 +21,10 @@ jobs:
         mkdir -p vegagerd
     - name: Fetch latest faerd a vegum
       run: |-
-        curl "https://gagnaveita.vegagerdin.is/api/faerd2017_1" | jq -S . > vegagerd/faerd.json
+        curl "https://gagnaveita.vegagerdin.is/api/faerd2017_1" > vegagerd/faerd.xml
     - name: Fetch latest issues
       run: |-
-        curl "https://gagnaveita.vegagerdin.is/api/faerdpunktar2017_1" | jq -S . > vegagerd/issues.json
+        curl "https://gagnaveita.vegagerdin.is/api/faerdpunktar2017_1" > vegagerd/issues.xml
     - name: Commit and push if it changed
       run: |-
         git config user.name "github-actions[bot]"
