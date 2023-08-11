@@ -2166,26 +2166,6 @@
             },
             {
               "__typename": "Program",
-              "description": "Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a0guru",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/95bq50-2in21o.jpg",
-                  "rating": 0,
-                  "title": "10.08.2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 30762,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/95bq50-2in21o.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/95bq50-e4bio.jpg",
-              "short_description": "Helstu fréttir dagsins af innlendum og erlendum vettvangi.",
-              "slug": "frettir-kl-19-00",
-              "title": "Fréttir kl. 19:00"
-            },
-            {
-              "__typename": "Program",
               "description": "Fréttatími sjónvarps með táknmálstúlkun.",
               "episodes": [
                 {
@@ -2203,6 +2183,26 @@
               "short_description": "Fréttatími sjónvarps með táknmálstúlkun.",
               "slug": "frettir-med-taknmalstulkun",
               "title": "Fréttir með táknmálstúlkun"
+            },
+            {
+              "__typename": "Program",
+              "description": "Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "a0guru",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/95bq50-2in21o.jpg",
+                  "rating": 0,
+                  "title": "10.08.2023"
+                }
+              ],
+              "foreign_title": null,
+              "id": 30762,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/95bq50-2in21o.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/95bq50-e4bio.jpg",
+              "short_description": "Helstu fréttir dagsins af innlendum og erlendum vettvangi.",
+              "slug": "frettir-kl-19-00",
+              "title": "Fréttir kl. 19:00"
             },
             {
               "__typename": "Program",
@@ -2306,26 +2306,6 @@
             },
             {
               "__typename": "Program",
-              "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
-                  "id": "a5m1tt",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9irkgg-lthrg8.jpg",
-                  "rating": 0,
-                  "title": "31.05.2023"
-                }
-              ],
-              "foreign_title": null,
-              "id": 32177,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9irkgg-lthrg8.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9irkgg-hvv2tg.jpg",
-              "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
-              "slug": "krakkafrettir-med-taknmalstulkun",
-              "title": "Krakkafréttir með táknmálstúlkun"
-            },
-            {
-              "__typename": "Program",
               "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.\n\nUmsjón: Kolbrún María Másdóttir og Gunnar Hrafn Kristjánsson.",
               "episodes": [
                 {
@@ -2343,6 +2323,26 @@
               "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
               "slug": "krakkafrettir",
               "title": "Krakkafréttir"
+            },
+            {
+              "__typename": "Program",
+              "description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "a5m1tt",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9irkgg-lthrg8.jpg",
+                  "rating": 0,
+                  "title": "31.05.2023"
+                }
+              ],
+              "foreign_title": null,
+              "id": 32177,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/9irkgg-lthrg8.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/9irkgg-hvv2tg.jpg",
+              "short_description": "Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.",
+              "slug": "krakkafrettir-med-taknmalstulkun",
+              "title": "Krakkafréttir með táknmálstúlkun"
             },
             {
               "__typename": "Program",
@@ -16349,26 +16349,6 @@
               "episodes": [
                 {
                   "__typename": "Episode",
-                  "id": "adjurj",
-                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurj-p0i1b0.jpg",
-                  "rating": 0,
-                  "title": "Þáttur 3 af 3"
-                }
-              ],
-              "foreign_title": null,
-              "id": 34983,
-              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurg-bu96sg.jpg",
-              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/adjurg-fdjtn8.jpg",
-              "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
-              "slug": "hringfarinn-hjolad-um-heimaslodir-med-enskum-texta",
-              "title": "Hringfarinn - Hjólað um heimaslóðir með enskum texta"
-            },
-            {
-              "__typename": "Program",
-              "description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.  Fylgst er með hjónunum upplifa land og þjóð á nýjan hátt þegar þau hjóla 7000 kílómetra á 40 dögum.",
-              "episodes": [
-                {
-                  "__typename": "Episode",
                   "id": "ad28ej",
                   "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/ad28ej-hc7ooo.jpg",
                   "rating": 0,
@@ -16382,6 +16362,26 @@
               "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
               "slug": "hringfarinn-hjolad-um-heimaslodir",
               "title": "Hringfarinn - Hjólað um heimaslóðir"
+            },
+            {
+              "__typename": "Program",
+              "description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.  Fylgst er með hjónunum upplifa land og þjóð á nýjan hátt þegar þau hjóla 7000 kílómetra á 40 dögum.",
+              "episodes": [
+                {
+                  "__typename": "Episode",
+                  "id": "adjurj",
+                  "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurj-p0i1b0.jpg",
+                  "rating": 0,
+                  "title": "Þáttur 3 af 3"
+                }
+              ],
+              "foreign_title": null,
+              "id": 34983,
+              "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/hd_posters/adjurg-bu96sg.jpg",
+              "portrait_image": "https://d38kdhuogyllre.cloudfront.net/fit-in/$$IMAGESIZE$$x/filters:quality(65)/portrait_posters/adjurg-fdjtn8.jpg",
+              "short_description": "Íslenskir heimildarþættir um ferðalag hjónanna Kristjáns Gíslasonar og Ásdísar Rósu Baldursdóttur, en þau ferðuðust hringinn í kringum Ísland á mótorhjólum sumarið 2020.",
+              "slug": "hringfarinn-hjolad-um-heimaslodir-med-enskum-texta",
+              "title": "Hringfarinn - Hjólað um heimaslóðir með enskum texta"
             },
             {
               "__typename": "Program",
